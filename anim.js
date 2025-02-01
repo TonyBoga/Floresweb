@@ -9,7 +9,7 @@ var lyricsData = [
   { text: "Pero tú me tiene' enredao, me envolví", time: 8 },
   { text: "Iba por mi camino y me perdí", time: 11 },
   { text: "Mi mirada cambió cuando tus ojos vi", time: 16 },
-  { text: "Bye-bye a los culo', ni me despedí", time: 16.5 },
+  { text: "Bye-bye a los culo', ni me despedí", time: 16.1 },
   { text: "Yo no te busqué, no", time: 19 },
   { text: "Chocamo' en el trayecto", time: 26 },
   { text: "Con tu alma es la que yo conecto", time: 28 },
