@@ -10,7 +10,7 @@ var lyricsData = [
   { text: "Iba por mi camino y me perdí", time: 11 },
   { text: "Mi mirada cambió cuando tus ojos vi", time: 16 },
   { text: "Bye-bye a los culo', ni me despedí", time: 20 },
-  { text: "Yo no te busqué, no", time: 23 },
+  { text: "Yo no te busqué, no", time: 21 },
   { text: "Chocamo' en el trayecto", time: 26 },
   { text: "Con tu alma es la que yo conecto", time: 28 },
   { text: "Tranquila, no tiene que ser perfecto, no", time: 31 },
