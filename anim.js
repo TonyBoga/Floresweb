@@ -4,7 +4,7 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Hace tiempo que no agarro a nadie de la mano", time: 1 },
+  { text: "Hace tiempo que no agarro a nadie de la mano", time: 0.5 },
   { text: "Hace tiempo que no envio Buenos dias, te amo", time: 7 },
   { text: "Pero tú me tiene' enredao, me envolví", time: 12 },
   { text: "Iba por mi camino y me perdí", time: 16 },
