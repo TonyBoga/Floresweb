@@ -6,7 +6,7 @@ var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
   { text: "Hace tiempo que no agarro a nadie de la mano", time: 0.1 },
   { text: "Hace tiempo que no envio Buenos dias, te amo", time: 4 },
-  { text: "Pero tú me tiene' enredao, me envolví", time: 10 },
+  { text: "Pero tú me tiene' enredao, me envolví", time: 8 },
   { text: "Iba por mi camino y me perdí", time: 14 },
   { text: "Mi mirada cambió cuando tus ojos vi", time: 16 },
   { text: "Bye-bye a los culo', ni me despedí", time: 20 },
