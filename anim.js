@@ -12,7 +12,7 @@ var lyricsData = [
   { text: "Bye-bye a los culo', ni me despedí", time: 16.1 },
   { text: "Yo no te busqué, no", time: 19 },
   { text: "Chocamo' en el trayecto", time: 26 },
-  { text: "Con tu alma es la que yo conecto", time: 28 },
+  { text: "Con tu alma es la que yo conecto", time: 26.5 },
   { text: "Tranquila, no tiene que ser perfecto, no", time: 31 },
   { text: "Aquí no existe el pecado", time: 35 },
   { text: "Y equivocarse es bonito", time: 38 },
