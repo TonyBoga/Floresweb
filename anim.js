@@ -20,7 +20,7 @@ var lyricsData = [
   { text: "Igual que to' tus besito'", time: 43 },
   { text: "Y solo mírame con esos ojito' lindo'", time: 47 },
   { text: "Que con eso yo estoy bien", time: 52 },
-  { text: "Hoy he vuelto a nacer", time: 53 },
+  { text: "Hoy he vuelto a nacer", time: 56 },
   { text: "Y solo mírame con esos ojito' lindo'", time: 59 },
   { text: "Que con eso yo estoy bien", time: 63 },
   { text: "Hoy he vuelto a nacer", time: 67 },
